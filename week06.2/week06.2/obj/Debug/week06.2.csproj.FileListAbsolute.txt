@@ -1,0 +1,12 @@
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\bin\Debug\week06.2.exe.config
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\bin\Debug\week06.2.exe
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\bin\Debug\week06.2.pdb
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\obj\Debug\week06.2.csproj.AssemblyReference.cache
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\obj\Debug\week06._2.Properties.Resources.resources
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\obj\Debug\week06.2.csproj.GenerateResource.cache
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\obj\Debug\week06.2.csproj.CoreCompileInputs.cache
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\obj\Debug\week06.2.exe
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\obj\Debug\week06.2.pdb
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\obj\Debug\week06._2.Form1.resources
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\bin\Debug\Images\car.png
+C:\Users\PATESZ6\source\repos\week06.2\week06.2\bin\Debug\Images\present.jpg
