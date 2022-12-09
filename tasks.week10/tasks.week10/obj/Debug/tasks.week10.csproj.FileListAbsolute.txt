@@ -1,0 +1,12 @@
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\bin\Debug\tasks.week10.exe.config
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\bin\Debug\tasks.week10.exe
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\bin\Debug\tasks.week10.pdb
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\bin\Debug\WorldsHardestGame.dll
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\obj\Debug\tasks.week10.csproj.AssemblyReference.cache
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\obj\Debug\tasks.week10.Properties.Resources.resources
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\obj\Debug\tasks.week10.csproj.GenerateResource.cache
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\obj\Debug\tasks.week10.csproj.CoreCompileInputs.cache
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\obj\Debug\tasks.week10.csproj.CopyComplete
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\obj\Debug\tasks.week10.exe
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\obj\Debug\tasks.week10.pdb
+C:\Users\p4h3xv\source\repos\tasks.week10\tasks.week10\obj\Debug\tasks.week10.Form1.resources
